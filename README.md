@@ -76,7 +76,7 @@
 ---
 
 ## 5) How to run
-
+  If can not run, please use another method.
 ### A. Notebook workflow 
 
 ​	Directly run transformer.ipynb in jupyter notebook
